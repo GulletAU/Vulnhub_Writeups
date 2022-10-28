@@ -10,4 +10,5 @@ The targets I was unable to complete Cyber Range targets:
 
 However to compensate I have completed all Vulnhub challenges from the slides which are in this folder.
 
-My Vulnhub writeups are also posted to the vulnhub site at the below link:
+My Vulnhub/Cyber range writeups are also posted to the vulnhub site at the below link:
+https://github.com/GulletAU/Vulnhub_Writeups
